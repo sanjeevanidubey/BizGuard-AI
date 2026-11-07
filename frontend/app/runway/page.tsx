@@ -197,6 +197,7 @@ export default function TryTheLookRunway() {
                   <div
                     key={look.num}
                     onClick={() => { setActiveIdx(i); setIsAutoPlaying(false); }}
+                  
                     className="absolute inset-0 flex flex-col items-center justify-end transition-all duration-700 ease-out cursor-pointer"
                     style={{
                       transform: `translateX(${translateX}) ${scale}`,

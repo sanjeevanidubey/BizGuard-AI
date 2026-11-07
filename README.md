@@ -8,6 +8,12 @@ BizGuard AI is an autonomous business reliability and self-healing platform engi
 ## 🌟 The Core Problem & Primary Demo Scenario
 
 In apparel e-commerce, **inventory isolation across size and color variants is critical**. A customer buying a **Black Kurti in Size M** must never receive Size L. 
+### Switch AI & Multi-Agent Intelligence
+
+BizGuard AI uses **Switch AI** to power intelligent workflows through multiple specialised AI agents. Each agent handles a dedicated business task, collaborating to analyse problems, generate insights, and support smarter decisions.
+
+**What makes it unique?** Instead of relying on a single AI assistant, BizGuard AI brings multiple agents together in one unified platform, combining automation, business intelligence, and a distinctive, interactive UI/UX to deliver a more intelligent business management experience.
+
 
 ### The Real-World Bug:
 1. **Customer Order**: Priya Sharma orders an *Anarkali Embroidered Black Kurti* in **Size M** (Value: ₹2,500).

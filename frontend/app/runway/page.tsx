@@ -78,6 +78,7 @@ const LOOKS = [
 ];
 
 export default function TryTheLookRunway() {
+  const [toastMsg,setToastMsg]=useState("");
   const [activeIdx, setActiveIdx] = useState(0);
   const [selectedSizes, setSelectedSizes] = useState<Record<string, string>>({});
   const [isAutoPlaying, setIsAutoPlaying] = useState(true);
